@@ -101,12 +101,6 @@ Contributions are welcome! If you would like to add new features or improve the 
 
 ---
 
-## **License**
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
 ## **Acknowledgments**
 
 - Built with **Python** and the **Pillow** library.
